@@ -3,11 +3,12 @@ https://kanaszewska.github.io/WeatherTypeScript/
 
 
 # Technologies Used
-HTML5
-
-CSS3
-
-JavaScript
+* HTML5
+* CSS3
+* JavaScript
+* React
+* TypeScript
+* Axios
 
 
 
