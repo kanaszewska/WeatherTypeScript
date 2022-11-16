@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WeatherTypeScript/static/css/main.c0d68496.css",
+    "main.css": "/WeatherTypeScript/static/css/main.e284f27d.css",
     "main.js": "/WeatherTypeScript/static/js/main.0c35cccb.js",
     "static/js/787.90e829ea.chunk.js": "/WeatherTypeScript/static/js/787.90e829ea.chunk.js",
     "static/media/img1.jpg": "/WeatherTypeScript/static/media/img1.2d45b5e10fed5ba2d199.jpg",
     "index.html": "/WeatherTypeScript/index.html",
-    "main.c0d68496.css.map": "/WeatherTypeScript/static/css/main.c0d68496.css.map",
+    "main.e284f27d.css.map": "/WeatherTypeScript/static/css/main.e284f27d.css.map",
     "main.0c35cccb.js.map": "/WeatherTypeScript/static/js/main.0c35cccb.js.map",
     "787.90e829ea.chunk.js.map": "/WeatherTypeScript/static/js/787.90e829ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0d68496.css",
+    "static/css/main.e284f27d.css",
     "static/js/main.0c35cccb.js"
   ]
 }
