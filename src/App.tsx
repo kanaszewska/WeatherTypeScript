@@ -38,7 +38,9 @@ function App() {
     setLocation('')
   }
 
-  const handleOnChange = (e: React.ChangeEvent<HTMLInputElement>): void => {
+  const handleOnChange = (
+    e: React.ChangeEvent<HTMLInputElement>
+    ): void => {
     setLocation(e.target.value)
   }
 
