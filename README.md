@@ -12,7 +12,7 @@ https://kanaszewska.github.io/WeatherTypeScript/
 
 # Features
 * Responsive design
-* Fetching API data with axios
+* Fetching API data with Axios
 * Modern look
 
 
