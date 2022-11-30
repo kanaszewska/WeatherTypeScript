@@ -10,10 +10,11 @@ https://kanaszewska.github.io/WeatherTypeScript/
 * TypeScript
 * Axios
 
-Responsive design
-React icons
-Fetching API data
-Modern design
+# Features
+* Responsive design
+* Fetching API data with axios
+* Modern look
+
 
 # Screenshots
 
